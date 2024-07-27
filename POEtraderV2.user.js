@@ -2,7 +2,7 @@
 // @name     POEtraderV2
 // @version  1
 // @grant    none
-// @include  https://www.pathofexile.com/trade/search/Affliction/*
+// @include  https://www.pathofexile.com/trade/search/Settlers/*
 // ==/UserScript==
 
 setTimeout(function(){
